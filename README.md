@@ -1,4 +1,4 @@
-\## 쥬스메이커 Team 1A README
+## 쥬스메이커 Team 1A README
 
 ----------
 
